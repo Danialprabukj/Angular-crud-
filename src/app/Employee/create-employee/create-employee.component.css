@@ -1,0 +1,23 @@
+.Fname {
+  color: red;
+  font-weight: bold;
+}
+.Lname {
+  color: red;
+  font-weight: bold;
+}
+
+.Email {
+  color: red;
+  font-weight: bold;
+}
+.btn-success :hover {
+  color: yellow;
+}
+.form-control {
+  font-size: larger;
+  background-color: aqua;
+}
+.text-center {
+  color: #cf2765;
+}

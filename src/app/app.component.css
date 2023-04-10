@@ -1,0 +1,20 @@
+.emp {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: lightgreen;
+}
+
+.dash {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: lightblue;
+}
+.home {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #ff00ff;
+}
+.nav-link {
+  font-family: cursive;
+  position: relative;
+}
+.container {
+  text-align: center;
+}

@@ -1,0 +1,12 @@
+.form-control {
+  font-size: larger;
+  background-color: aqua;
+}
+.text-center {
+  color: rgb(247, 137, 4);
+}
+.heading {
+  color: red;
+  text-decoration: underline;
+  font-weight: bold;
+}
